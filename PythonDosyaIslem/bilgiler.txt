@@ -1,0 +1,15 @@
+33 Ayhan 1 1 1-2
+43 Mert 2 1 2-3
+42 Aslı 2 2 2-3
+23 Ece 1 1 1-2-3
+35 Ali 2 2 1
+77 Esra 1 2 2-3
+54 Sefa 1 2 1-2-3
+28 Mustafa 1 2 1-3
+67 Görkem 1 1 1-2-3
+11 Ayşegül 2 2 2-3
+44 Gözde 2 2 1-2-3
+78 Ceyda 2 1 1-2
+89 Hasan 2 1 2
+90 Elif 2 1 3
+445 Aslı 1 2 1-2
