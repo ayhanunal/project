@@ -1,0 +1,40 @@
+﻿<!DOCTYPE Html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Şifremi Unuttum</title>
+	<script lang="JavaScript">
+
+
+
+		
+		var sayi1=prompt("Email Adresi:");
+		if(sayi1=="admin@admin")
+		{
+			
+			var sayi2=prompt("Şirket Sicil No:");
+			if (sayi2=="123456")
+			{
+				alert("Şifreniz : 'deneme'");
+				window.location = "Default.aspx";
+
+			}
+			else
+			{
+				alert("Yanlış Sicil Numarası");
+				window.location = "sifremi_unuttum.html";
+			}
+
+		}
+		else
+		{
+			alert("Geçersiz Email Adresi");
+			window.location = "sifremi_unuttum.html";
+		}
+
+	</script>
+</head>
+<body>
+	
+</body>
+</html>

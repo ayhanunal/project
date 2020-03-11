@@ -1,0 +1,32 @@
+﻿
+
+	.Menu ul {
+		background: #7795BD;
+	}
+
+		.Menu ul li {
+			background: #7795BD url(menu_bg.gif) repeat-x;
+			text-align: center;
+			/* set width if needed.*/
+			width: 233px;
+		}
+
+			.Menu ul li a {
+				color: black;
+				padding: 4px 2px 4px;
+				padding-left: 8px !important;
+				border: 1px solid #648ABD;
+				border-bottom: 0;
+			}
+
+				.Menu ul li a:hover {
+					background-image: none;
+				}
+
+				.Menu ul li a:hover {
+					color: White;
+				}
+
+			.Menu ul li a {
+				color: Black;
+			}

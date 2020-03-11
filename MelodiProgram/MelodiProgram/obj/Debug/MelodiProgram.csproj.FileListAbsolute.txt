@@ -1,0 +1,68 @@
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\csc.exe
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\csc.exe.config
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\csc.rsp
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\csi.exe
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\csi.rsp
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.AppContext.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\vbc.exe
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\vbc.exe.config
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\vbc.rsp
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\MelodiProgram.dll.config
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\MelodiProgram.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\MelodiProgram.pdb
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.dll
+C:\Users\Ayhan\Desktop\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.pdb
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\csc.exe
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\csc.exe.config
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\csc.rsp
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\csi.exe
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\csi.rsp
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.AppContext.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\vbc.exe
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\vbc.exe.config
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\vbc.rsp
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\MelodiProgram.dll.config
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\MelodiProgram.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\MelodiProgram.pdb
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.csprojResolveAssemblyReference.cache
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.dll
+C:\Users\Ayhan\Desktop\Staj\2. Staj\MelodiProgram\MelodiProgram\obj\Debug\MelodiProgram.pdb
